@@ -1,0 +1,9 @@
+Package: com.pizzaboy.switchcolors
+Name: SwitchColors
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Changes the Color of your Switches
+Maintainer: Pizza Boy
+Author: Pizza Boy
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000),  ws.hbang.common (>= 1.15.1), ws.hbang.alderis (>= 1.0.1)
